@@ -20,16 +20,15 @@ const AdvertWidget = () => {
         width="100%"
         height="auto"
         alt="advert"
-        src="https://mern-app-backend-4ury.onrender.com/assets/info4.jpeg"
+        src="https://mern-app-backend-4ury.onrender.com/assets/info5.jpeg"
         style={{ borderRadius: "0.75rem", margin: "0.75rem 0" }}
       />
       <FlexBetween>
-        <Typography color={main}>MikaCosmetics</Typography>
-        <Typography color={medium}>mikacosmetics.com</Typography>
+        <Typography color={main}>Ivan-Basil</Typography>
+        <Typography color={medium}>ivan.chiosa.com</Typography>
       </FlexBetween>
       <Typography color={medium} m="0.5rem 0">
-        Your pathway to stunning and immaculate beauty and made sure your skin
-        is exfoliating skin and shining like light.
+        It was a pleasure to study at the Digital Career Institute!😄
       </Typography>
     </WidgetWrapper>
   );

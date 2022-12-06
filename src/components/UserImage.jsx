@@ -6,7 +6,7 @@ const UserImage = ({ image, size = "60px" }) => {
       <img
         style={{ objectFit: "cover", borderRadius: "50%" }}
         width={size}
-        height={size} 
+        height={size}
         alt="user"
         src={`https://mern-app-backend-4ury.onrender.com/assets/${image}`}
       />
