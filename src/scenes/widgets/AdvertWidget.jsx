@@ -24,11 +24,12 @@ const AdvertWidget = () => {
         style={{ borderRadius: "0.75rem", margin: "0.75rem 0" }}
       />
       <FlexBetween>
-        <Typography color={main}>Ivan-Basil</Typography>
-        <Typography color={medium}>ivan.chiosa.com</Typography>
+        <Typography color={main}>Ivan&Basil</Typography>
+        <Typography color={medium}>www.ivanchiosa.com</Typography>
       </FlexBetween>
       <Typography color={medium} m="0.5rem 0">
-        It was a pleasure to study at the Digital Career Institute!😄
+        It was a pleasure to study at the Digital Career Institute!😄 <br/>
+        For the year 2021-2022 🖥️
       </Typography>
     </WidgetWrapper>
   );
